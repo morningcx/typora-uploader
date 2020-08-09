@@ -1,7 +1,5 @@
 @echo off
 
-::curl -sIL -w "%%{content_type}" -o null https://iknow-pic.cdn.bcebos.com/8b13632762d0f7038dd4a4aa05fa513d2697c565
-
 ::git目录
 set gitDir=E:\Program\Project\typora-uploader\img\
 ::域名
