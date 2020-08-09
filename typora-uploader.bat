@@ -3,9 +3,9 @@
 ::curl -sIL -w "%%{content_type}" -o null https://iknow-pic.cdn.bcebos.com/8b13632762d0f7038dd4a4aa05fa513d2697c565
 
 ::git目录
-set gitDir=E:\Program\Project\assets\img\
+set gitDir=E:\Program\Project\typora-uploader\img\
 ::域名
-set domain=https://cdn.jsdelivr.net/gh/morningcx/assets/img/
+set domain=https://cdn.jsdelivr.net/gh/morningcx/typora-uploader/img/
 
 ::基本变量
 set logDir=%~dp0
