@@ -86,8 +86,6 @@ echo ![](%url%) | clip
 
 ## 使用
 
-使用方法很简单
-
 1. 将脚本clone到本地、git图床clone到本地，在脚本中配置好本地git目录以及远程域名（[jsDelivr](https://github.com/jsdelivr/jsdelivr)）
 2. Typora偏好设置中上传服务选定为Custom Command，自定义命令路径指向typora-uploader.bat
 3. 复制本地图片或截图至Typora时将自动上传至GitHub图床
