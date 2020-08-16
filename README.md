@@ -1,4 +1,4 @@
-# typora-uploader
+# Typora Uploader
 
 本人在使用Typora上传图片时是使用GitHub作为图床的，Typora常用的图片上传工具有iPic、uPic、PicGo等，但在使用PicGo等工具上传Github图片时经常遇到上传失败的现象，原因PicGo的作者在[这里](https://github.com/Molunerfinn/PicGo/blob/dev/FAQ.md#7-github-%E5%9B%BE%E5%BA%8A%E6%9C%89%E6%97%B6%E8%83%BD%E4%B8%8A%E4%BC%A0%E6%9C%89%E6%97%B6%E4%B8%8A%E4%BC%A0%E5%A4%B1%E8%B4%A5)也写得很明白了，另一方面仅针对Typora使用图片上传工具过于笨重，并且需要开启常驻后台，如果对性能要求比较高的用户可能不太能接受。
 
